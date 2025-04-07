@@ -1,4 +1,4 @@
-# Smart-System-for-Enhancing-Student-Teacher-Research-Collaboration.-
+# Smart-System-for-Enhancing-Student-Teacher-Research-Collaboration.
 ✨ Description:
 🚀 An AI-powered Research Paper Management & Recommendation System designed for academic institutions!
 
