@@ -23,14 +23,14 @@
 🛠️ Deployment planned for end of April 2025  
 
 🛣️ **Roadmap**  
- Setup Flutter Frontend & Firebase Backend  
- Build faculty & paper management modules  
- Implement search & filter functions  
- Integrate ML-based recommendation system  
- Add user login with role-based access (admin, student, faculty)  
- Finalize comment & rating system  
- Conduct user testing & gather feedback  
- Deployment to Firebase Hosting / Web Server  
+- Setup Flutter Frontend & Firebase Backend  
+- Build faculty & paper management modules  
+- Implement search & filter functions  
+- Integrate ML-based recommendation system  
+- Add user login with role-based access (admin, student, faculty)  
+- Finalize comment & rating system  
+- Conduct user testing & gather feedback  
+- Deployment to Firebase Hosting / Web Server  
 
 🤝 **Contributors**  
 Maintained by the 🧠 Team Neo-Sentinels of DIU  
