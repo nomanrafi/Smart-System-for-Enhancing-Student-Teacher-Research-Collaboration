@@ -1,6 +1,6 @@
 # Smart-System-for-Enhancing-Student-Teacher-Research-Collaboration.
 
-🚀 An AI-powered Research Paper Management & Recommendation System designed for academic institutions!  
+🚀 An AI-powered Research Paper Management & Recommendation System designed for academic institutions.  
 📚 Simplify access to research papers, track faculty projects, and get smart recommendations — all in one unified platform.  
 
 🔧 **Built With:**  
