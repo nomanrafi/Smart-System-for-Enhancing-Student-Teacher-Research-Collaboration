@@ -1,28 +1,38 @@
-# Smart-System-for-Enhancing-Student-Teacher-Research-Collaboration.
+# Smart-System-for-Enhancing-Student-Teacher-Research-Collaboration
 
 🚀 An AI-powered Research Paper Management & Recommendation System designed for academic institutions!  
-📚 Simplify access to research papers, track faculty projects, and get smart recommendations — all in one unified platform.  
+📚 Simplify access to research papers, track faculty projects, and get smart recommendations — all in one unified platform.
 
-🔧 **Built With:**  
-💙 Flutter – Cross-platform mobile & web frontend  
-🔥 Firebase / PostgreSQL – Secure backend & database  
-🧠 Scikit-learn / TensorFlow – Machine Learning for recommendations  
-🎨 Figma – UI/UX prototyping and design  
+[![Watch the Demo](https://img.shields.io/badge/Watch-Demo-blue)](https://github.com/user-attachments/assets/0fa4eebc-ca5a-406a-b96a-39e2dd3d9839)
 
-🧩 **Key Features:**  
-🔎 Advanced Search & Filters – Find research papers by title, author, field, year  
-👨‍🏫 Faculty Profiles – View faculty-wise research contributions  
-🤖 ML-powered Recommendations – Personalized suggestions for students  
-💬 Commenting & Rating System – Encourage academic discussions  
-🧾 Admin Dashboard – Manage uploads, monitor user activity  
-📱 Responsive Design – Seamless experience on mobile and web  
+---
 
-🚧 **Project Status: In Development**  
-✅ MVP Features: 80% complete  
-⏳ Final testing & UI refinements ongoing  
-🛠️ Deployment planned for end of April 2025  
+## 🔧 Built With
+- 💙 **Flutter** – Cross-platform mobile & web frontend  
+- 🔥 **Firebase / PostgreSQL** – Secure backend & database  
+- 🧠 **Scikit-learn / TensorFlow** – Machine Learning for recommendations  
+- 🎨 **Figma** – UI/UX prototyping and design  
 
-🛣️ **Roadmap**  
+---
+
+## 🧩 Key Features
+- 🔎 **Advanced Search & Filters** – Find research papers by title, author, field, year  
+- 👨‍🏫 **Faculty Profiles** – View faculty-wise research contributions  
+- 🤖 **ML-powered Recommendations** – Personalized suggestions for students  
+- 💬 **Commenting & Rating System** – Encourage academic discussions  
+- 🧾 **Admin Dashboard** – Manage uploads, monitor user activity  
+- 📱 **Responsive Design** – Seamless experience on mobile and web  
+
+---
+
+## 🚧 Project Status: In Development
+- ✅ MVP Features: 80% complete  
+- ⏳ Final testing & UI refinements ongoing  
+- 🛠️ Deployment planned for end of April 2025  
+
+---
+
+## 🛣️ Roadmap
 - Setup Flutter Frontend & Firebase Backend  
 - Build faculty & paper management modules  
 - Implement search & filter functions  
@@ -32,6 +42,8 @@
 - Conduct user testing & gather feedback  
 - Deployment to Firebase Hosting / Web Server  
 
-🤝 **Contributors**  
-Maintained by the 🧠 Team Neo-Sentinels of DIU  
-📍 Daffodil International University, CSE Departmentv
+---
+
+## 🤝 Contributors
+Maintained by the 🧠 **Team Neo-Sentinels** of **DIU**  
+📍 **Daffodil International University, CSE Department**
